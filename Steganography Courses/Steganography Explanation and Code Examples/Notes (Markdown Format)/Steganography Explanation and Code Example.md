@@ -44,7 +44,7 @@ In our main method, we specify the file path for the UTS logo and also specify t
 
 ![image.png](image.png)
 
-We run the script and observe the output image. Visually, the images are identical, however, with the only difference being that the resultant image contains the message that we embedded. This can be seen reflected in the file sizes of the images (unaltered - 76kb, altered - 117kb)
+We run the script and observe the output image. Visually, the images are identical, with the only difference being that the resultant image contains the message that we embedded. This can be seen reflected in the file sizes of the images (unaltered - 76kb, altered - 117kb)
 
 ![image.png](image%201.png)
 
