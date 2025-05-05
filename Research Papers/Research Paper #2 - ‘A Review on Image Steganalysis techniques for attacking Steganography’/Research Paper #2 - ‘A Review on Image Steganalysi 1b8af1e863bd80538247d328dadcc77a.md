@@ -68,7 +68,7 @@
     - Uses a classifier trained on known stego and normal images
     - The classifier iteratively updates itself based on its predictions
 
-# Citations
+# References
 
 *Laskar, S., & Hemachandran, K. (2014). A Review on Image Steganalysis techniques for attacking Steganography. In ijert.otg. https://www.ijert.org/research/a-review-on-image-steganalysis-techniques-for-attacking-steganography-IJERTV3IS11136.pdf*
 
