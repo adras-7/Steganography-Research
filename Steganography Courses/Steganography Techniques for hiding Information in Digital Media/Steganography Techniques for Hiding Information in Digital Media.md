@@ -75,3 +75,7 @@ Two methods of establishing a covert channel: a channel where messages are excha
 ### ChatGPT Q&A
 
 [https://chatgpt.com/share/6817060c-aaf4-8001-b664-6779336e1539](https://chatgpt.com/share/6817060c-aaf4-8001-b664-6779336e1539)
+
+# References
+
+Buchanan, B. (2015, March 29). *Steganography: Techniques for Hiding Information in Digital Media > Intro | Class Central Classroom*. Classcentral.com; Class Central. https://www.classcentral.com/classroom/youtube-steganography-139263

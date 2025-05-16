@@ -219,3 +219,7 @@ Colour Plane Conversion → Convert unsigned to signed → DCT → Quantiser →
     - Not in multiples of 8
     - Resize by a single horizontal column and vertical rows
     - Completely changes DCT coefficients
+
+# References
+
+Ortiz, J. (2014, August 4). *Advanced JPEG Steganography and Detection > Advanced JPEG Steganography and Detection by John Ortiz | Class Central Classroom*. Classcentral.com; Class Central. https://www.classcentral.com/classroom/youtube-advanced-jpeg-steganography-and-detection-by-john-ortiz-185955
